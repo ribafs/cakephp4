@@ -9,6 +9,8 @@ Comm apenas um comando e com bons recursos
 
 ## Implementando o Bootstrap no Cake
 
+## Conexão com MySQL, PostgreSQL e SQLite
+
 ## Customizando a paginação
 
 ## Licença
